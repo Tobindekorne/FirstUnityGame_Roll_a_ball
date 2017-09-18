@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/MiniGame.unity
-    guid: 554c8b05406a87149940fd28508eb96f
-  - enabled: 1
     path: Assets/_Scenes/Menu.unity
     guid: c16d3c115e48083469a3946c674f3d03
+  - enabled: 1
+    path: Assets/_Scenes/MiniGame.unity
+    guid: 554c8b05406a87149940fd28508eb96f
   - enabled: 1
     path: Assets/_Scenes/MazeGame.unity
     guid: b36b3c3d9d5465d48a0ba4653b223ff0
